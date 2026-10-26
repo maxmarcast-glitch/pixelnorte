@@ -3,17 +3,17 @@
 Sitio web de PixelNorte, una empresa dedicada al desarrollo y diseño de paginas web.
 Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de contactos.
 
-##Tecnologia
+## Tecnologia
 - HTML5
 - CSS
 
 ## Estructura
 
-- 'index.html' - pagina central
-- 'servicios.html' - Servicios, durcacion y precios
-- 'contactos.html' - formulario de contacto
-- 'style.css' - hoja de estilo
-- 'Logotipo.png' - Logo de PixelNorte
+- `index.html` - pagina central
+- `servicios.html` - Servicios, durcacion y precios
+- `contacto.html`- formulario de contacto
+- `style.css`- hoja de estilo
+- `Logotipo.png`- Logo de PixelNorte
 
 ## Autor
 
