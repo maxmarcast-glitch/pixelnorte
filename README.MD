@@ -6,7 +6,8 @@ Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de
 ## Tecnologia
 - HTML5
 - CSS
-
+- Flexbox
+- Mobile First
 ## Estructura
 
 - `index.html` - pagina central
