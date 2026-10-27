@@ -8,6 +8,7 @@ Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de
 - CSS
 - Flexbox
 - Mobile First
+- Grid
 ## Estructura
 
 - `index.html` - pagina central
