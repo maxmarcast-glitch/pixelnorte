@@ -10,7 +10,7 @@ Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de
 ## Estructura
 
 - `index.html` - pagina central
-- `servicios.html` - Servicios, durcacion y precios
+- `servicios.html` - Servicios, duración y precios
 - `contacto.html`- formulario de contacto
 - `style.css`- hoja de estilo
 - `Logotipo.png`- Logo de PixelNorte
