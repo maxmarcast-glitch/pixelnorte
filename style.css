@@ -69,13 +69,13 @@ h2 {
 
 #quienes-somos li{
 	border: 1px solid #CCCCCC;
-	boder-radius: 8px;
+	border-radius: 8px;
 	padding: 16px;
 }
 
 #tabla-servicios {
 	width: 100%;
-	borde-collapse: collapse;
+	border-collapse: collapse;
 }
 
 #tabla-servicios th,
@@ -101,7 +101,7 @@ h2 {
 }
 
 #formulario-contacto fieldset  label {
-	display: incline;
+	display: inline;
 	margin-right: 16px;
 }
 
