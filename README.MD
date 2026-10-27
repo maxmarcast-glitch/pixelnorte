@@ -1,7 +1,7 @@
 # PixelNorte
 
 Sitio web de PixelNorte, una empresa dedicada al desarrollo y diseño de paginas web.
-Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de contactos.
+Tiene tres paginas: inicio, servicio con una tabla de precios y un formulario de contacto.
 
 ## Tecnologia
 - HTML5
